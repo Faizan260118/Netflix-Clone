@@ -127,10 +127,6 @@ nav button {
     font-size: 22px;
 }
 
-.feature .row{
-    border-top: 6px solid #333;
-}
-
 .row{
     display: flex;
     width: 100%;
